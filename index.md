@@ -1,3 +1,6 @@
+# About Me 
+An Operations Specialist with a master's degree in Environmental Engineering, seeking for career switch from operations to data analytics
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JamieYeap/jamieyeap.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
