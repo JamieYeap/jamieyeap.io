@@ -5,7 +5,7 @@ An Operations Specialist with a master's degree in Environmental Engineering, se
 
 ## Education 
 **2020**    _National University of Singapore_ <br />
-            Master of Engineering (Research) in Environmental Engineering <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Engineering (Research) in Environmental Engineering <br />
 **2015**    _Monash University of Singapore_ <br />
             Bachelor's Degree of Engineering (Hons.) in Chemical Engineering 
 
