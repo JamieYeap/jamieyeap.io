@@ -1,7 +1,7 @@
 # Site under construction 
 
 ## About Me 
-An Operations Specialist with a master's degree in Environmental Engineering, seeking for career switch from operations to data analytics
+An Operations Specialist with a master's degree in Environmental Engineering, seeking for a career switch from operations to data analytics
 
 ## Education 
 **2020**   &nbsp;_National University of Singapore_ <br />
